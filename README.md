@@ -1,4 +1,43 @@
 # Custom Button Style On Oracle APEX
+This custom Oracle APEX button style creates a modern, vibrant, and professional user interface element with a glossy gradient appearance. The design features rounded corners, soft shadows, and colorful gradient backgrounds that enhance the visual appeal of applications.
+
+### Key Features
+
+- **Gradient Backgrounds**
+  - Each button uses a unique multi-color gradient to create a modern and attractive look.
+  - Different color schemes can be applied for various actions or categories.
+
+- **Rounded Corners**
+  - Large border-radius values provide a smooth, pill-shaped appearance.
+  - Improves aesthetics and user experience.
+
+- **Glassmorphism Effect**
+  - Semi-transparent overlays and subtle borders create a glass-like appearance.
+  - Gives the buttons a premium, modern UI feel.
+
+- **Hover Animation**
+  - Smooth transitions when users move the mouse over the button.
+  - Can include slight scaling, glow effects, or color shifts.
+
+- **Shadow Effects**
+  - Soft box shadows add depth and make buttons stand out from the page background.
+  - Enhances visual hierarchy.
+
+- **Icon Integration**
+  - Supports Oracle APEX Font APEX or Font Awesome icons.
+  - Icons can be placed before the button text for improved usability.
+
+- **Responsive Design**
+  - Adapts seamlessly to different screen sizes and devices.
+  - Suitable for desktop, tablet, and mobile applications.
+    
+### Typical Use Cases
+- Dashboard navigation buttons
+- Quick action menus
+- Application launchers
+- Workflow action buttons
+- Modern portal interfaces
+
 ### Demo
 ![Preview](ButtonStyle.jpg)
 
